@@ -1,6 +1,7 @@
 RENCANA (KEMUNGKINAN):
 - 1
   * 00
-- 4
+    ^ abc
+    ^ ghi
 - 2
 - 3
