@@ -2,6 +2,7 @@ RENCANA (KEMUNGKINAN):
 - 1
   * 00
     ^ ABC
+    ^ GHI
 - 4
 - 2
   ^ DEF
