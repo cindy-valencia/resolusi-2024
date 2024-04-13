@@ -1,4 +1,5 @@
 RENCANA (KEMUNGKINAN):
 - 1
+  * 00
 - 2
 - 3
